@@ -1,0 +1,217 @@
+<raids>
+<raid name="mino" message="Minotaurs sighted near the City! Invasion imminent!" brodcaster="GOD Jony">
+<area monster="minotaur" count="30" posxfrom="157" posyfrom="38" poszfrom="7" posxto="157" posyto="38" poszto="7" />
+<area monster="minotaur mage" count="25" posxfrom="146" posyfrom="39" poszfrom="7" posxto="146" posyto="39" poszto="7" />
+<area monster="minotaur archer" count="20" posxfrom="133" posyfrom="38" poszfrom="7" posxto="133" posyto="38" poszto="7" />
+<area monster="minotaur guard" count="5" posxfrom="136" posyfrom="44" poszfrom="7" posxto="136" posyto="44" poszto="7" />
+<monster name="murius" x="139" y="55" z="7" />
+</raid>  
+
+<raid name="trolls" message="The City is under a troll attack." brodcaster="GOD Jony">
+<area monster="troll" count="45" posxfrom="131" posyfrom="33" poszfrom="7" posxto="181" posyto="61" poszto="7" />
+<area monster="swamp troll" count="30" posxfrom="131" posyfrom="33" poszfrom="7" posxto="181" posyto="61" poszto="7" />
+<area monster="frost troll" count="30" posxfrom="131" posyfrom="33" poszfrom="7" posxto="181" posyto="61" poszto="7" />
+<area monster="wolf" count="10" posxfrom="131" posyfrom="33" poszfrom="7" posxto="181" posyto="61" poszto="7" />
+</raid>  
+
+<raid name="undead" message="A black magic made undeads to come back in our desert." brodcaster="GOD Jony">
+<area monster="necromancer" count="25" posxfrom="1525" posyfrom="894" poszfrom="7" posxto="1525" posyto="894" poszto="7" />
+<area monster="priestess" count="15" posxfrom="1520" posyfrom="899" poszfrom="7" posxto="1520" posyto="899" poszto="7" />
+<area monster="mummy" count="35" posxfrom="1521" posyfrom="889" poszfrom="7" posxto="1521" posyto="889" poszto="7" />
+<area monster="ghost" count="35" posxfrom="1528" posyfrom="902" poszfrom="7" posxto="1528" posyto="902" poszto="7" />
+<area monster="vampire" count="40" posxfrom="1534" posyfrom="902" poszfrom="7" posxto="1534" posyto="902" poszto="7" />
+<area monster="crypt shambler" count="15" posxfrom="1538" posyfrom="896" poszfrom="7" posxto="1538" posyto="896" poszto="7" />
+<area monster="lich" count="3" posxfrom="1537" posyfrom="889" poszfrom="7" posxto="1537" posyto="889" poszto="7" />
+<area monster="ancient scarab" count="3" posxfrom="1512" posyfrom="894" poszfrom="7" posxto="1512" posyto="894" poszto="7" />
+</raid>  
+
+<raid name="orsha" message="They had opened the gat of the hell and a Orshabaal came in our world! It protects to all if you is capable. Alls come Edron Danger Morgaroth" brodcaster="GOD Jony">
+<area monster="orshabaal" count="1" posxfrom="1622" posyfrom="410" poszfrom="7" posxto="1622" posyto="410" poszto="7" />
+<area monster="demon" count="1" posxfrom="1613" posyfrom="408" poszfrom="7" posxto="1613" posyto="408" poszto="7" />
+<area monster="demon" count="1" posxfrom="1613" posyfrom="419" poszfrom="7" posxto="1613" posyto="419" poszto="7" />
+</raid>  
+
+<raid name="orsha" message="They had opened the gat of the hell and a Orshabaal came in our world! It protects to all if you is capable. Alls come Edron Danger Morgaroth" brodcaster="GOD Jony">
+<area monster="orshabaal" count="1" posxfrom="1622" posyfrom="410" poszfrom="7" posxto="1622" posyto="410" poszto="7" />
+<area monster="demon" count="1" posxfrom="1613" posyfrom="408" poszfrom="7" posxto="1613" posyto="408" poszto="7" />
+<area monster="demon" count="1" posxfrom="1613" posyfrom="419" poszfrom="7" posxto="1613" posyto="419" poszto="7" />
+</raid> 
+
+<raid name="orsha" message="They had opened the gat of the hell and a Orshabaal came in our world! It protects to all if you is capable. Alls come Edron Danger Morgaroth" brodcaster="GOD Jony">
+<area monster="orshabaal" count="1" posxfrom="1622" posyfrom="410" poszfrom="7" posxto="1622" posyto="410" poszto="7" />
+<area monster="demon" count="1" posxfrom="1613" posyfrom="408" poszfrom="7" posxto="1613" posyto="408" poszto="7" />
+<area monster="demon" count="1" posxfrom="1613" posyfrom="419" poszfrom="7" posxto="1613" posyto="419" poszto="7" />
+<monster name="morgaroth" x="1615" y="365" z="7" />
+</raid>  
+
+<raid name="mino" message="Minotaurs sighted near the City! Invasion imminent!" brodcaster="GOD Jony">
+<area monster="minotaur" count="30" posxfrom="736" posyfrom="606" poszfrom="7" posxto="736" posyto="606" poszto="7" />
+<area monster="minotaur mage" count="25" posxfrom="741" posyfrom="603" poszfrom="7" posxto="741" posyto="603" poszto="7" />
+<area monster="minotaur archer" count="20" posxfrom="744" posyfrom="602" poszfrom="7" posxto="744" posyto="602" poszto="7" />
+<area monster="minotaur guard" count="5" posxfrom="739" posyfrom="603" poszfrom="7" posxto="739" posyto="603" poszto="7" />
+<monster name="murius" x="744" y="599" z="7" />
+</raid> 
+
+<raid name="mino" message="Minotaurs sighted near the City! Invasion imminent!" brodcaster="GOD Jony">
+<area monster="minotaur" count="30" posxfrom="736" posyfrom="606" poszfrom="7" posxto="736" posyto="606" poszto="7" />
+<area monster="minotaur mage" count="25" posxfrom="741" posyfrom="603" poszfrom="7" posxto="741" posyto="603" poszto="7" />
+<area monster="minotaur archer" count="20" posxfrom="744" posyfrom="602" poszfrom="7" posxto="744" posyto="602" poszto="7" />
+<area monster="minotaur guard" count="5" posxfrom="739" posyfrom="603" poszfrom="7" posxto="739" posyto="603" poszto="7" />
+<monster name="murius" x="744" y="599" z="7" />
+</raid> 
+
+<raid name="undead" message="A black magic made undeads to come back in our desert." brodcaster="GOD Jony">
+<area monster="necromancer" count="25" posxfrom="1525" posyfrom="894" poszfrom="7" posxto="1525" posyto="894" poszto="7" />
+<area monster="priestess" count="15" posxfrom="1520" posyfrom="899" poszfrom="7" posxto="1520" posyto="899" poszto="7" />
+<area monster="mummy" count="35" posxfrom="1521" posyfrom="889" poszfrom="7" posxto="1521" posyto="889" poszto="7" />
+<area monster="ghost" count="35" posxfrom="1528" posyfrom="902" poszfrom="7" posxto="1528" posyto="902" poszto="7" />
+<area monster="vampire" count="40" posxfrom="1534" posyfrom="902" poszfrom="7" posxto="1534" posyto="902" poszto="7" />
+<area monster="crypt shambler" count="15" posxfrom="1538" posyfrom="896" poszfrom="7" posxto="1538" posyto="896" poszto="7" />
+<area monster="lich" count="3" posxfrom="1537" posyfrom="889" poszfrom="7" posxto="1537" posyto="889" poszto="7" />
+<area monster="ancient scarab" count="3" posxfrom="1512" posyfrom="894" poszfrom="7" posxto="1512" posyto="894" poszto="7" />
+<monster name="necropharus" x="1526" y="892" z="7" />
+</raid>
+
+<raid name="undead" message="A black magic made undeads to come back in our desert." brodcaster="GOD Jony">
+<area monster="necromancer" count="25" posxfrom="1525" posyfrom="894" poszfrom="7" posxto="1525" posyto="894" poszto="7" />
+<area monster="priestess" count="15" posxfrom="1520" posyfrom="899" poszfrom="7" posxto="1520" posyto="899" poszto="7" />
+<area monster="mummy" count="35" posxfrom="1521" posyfrom="889" poszfrom="7" posxto="1521" posyto="889" poszto="7" />
+<area monster="ghost" count="35" posxfrom="1528" posyfrom="902" poszfrom="7" posxto="1528" posyto="902" poszto="7" />
+<area monster="vampire" count="40" posxfrom="1534" posyfrom="902" poszfrom="7" posxto="1534" posyto="902" poszto="7" />
+<area monster="crypt shambler" count="15" posxfrom="1538" posyfrom="896" poszfrom="7" posxto="1538" posyto="896" poszto="7" />
+<area monster="lich" count="3" posxfrom="1537" posyfrom="889" poszfrom="7" posxto="1537" posyto="889" poszto="7" />
+<area monster="ancient scarab" count="3" posxfrom="1512" posyfrom="894" poszfrom="7" posxto="1512" posyto="894" poszto="7" />
+<monster name="necropharus" x="1526" y="892" z="7" />
+</raid>
+
+<raid name="abin" message="They had opened the gat of the hell and a Ferrumbas esta a solta alls come AB." brodcaster="GOD Jony">
+<area monster="warlock" count="30" posxfrom="975" posyfrom="537" poszfrom="7" posxto="975" posyto="537" poszto="7" />
+<area monster="demon skeleton" count="25" posxfrom="978" posyfrom="539" poszfrom="7" posxto="978" posyto="539" poszto="7" />
+<area monster="dragon" count="20" posxfrom="985" posyfrom="543" poszfrom="7" posxto="985" posyto="543" poszto="7" />
+<area monster="dragon lord" count="5" posxfrom="987" posyfrom="534" poszfrom="7" posxto="987" posyto="534" poszto="7" />
+<monster name="ferrumbas" x="980" y="533" z="7" />
+</raid>
+
+<raid name="abin" message="They had opened the gat of the hell and a Ferrumbas esta a solta alls come AB." brodcaster="GOD Jony">
+<area monster="warlock" count="30" posxfrom="975" posyfrom="537" poszfrom="7" posxto="975" posyto="537" poszto="7" />
+<area monster="demon skeleton" count="25" posxfrom="978" posyfrom="539" poszfrom="7" posxto="978" posyto="539" poszto="7" />
+<area monster="dragon" count="20" posxfrom="985" posyfrom="543" poszfrom="7" posxto="985" posyto="543" poszto="7" />
+<area monster="dragon lord" count="5" posxfrom="987" posyfrom="534" poszfrom="7" posxto="987" posyto="534" poszto="7" />
+<monster name="ferrumbas" x="980" y="533" z="7" />
+</raid>
+
+<raid name="abin" message="They had opened the gat of the hell and a Ferrumbas esta a solta alls come AB." brodcaster="GOD Jony">
+<area monster="warlock" count="30" posxfrom="975" posyfrom="537" poszfrom="7" posxto="975" posyto="537" poszto="7" />
+<area monster="demon skeleton" count="25" posxfrom="978" posyfrom="539" poszfrom="7" posxto="978" posyto="539" poszto="7" />
+<area monster="dragon" count="20" posxfrom="985" posyfrom="543" poszfrom="7" posxto="985" posyto="543" poszto="7" />
+<area monster="dragon lord" count="5" posxfrom="987" posyfrom="534" poszfrom="7" posxto="987" posyto="534" poszto="7" />
+<monster name="ferrumbas" x="980" y="533" z="7" />
+</raid>
+
+<raid name="drag" message="Invasion desert.. Demodras opened the dragon land. Alls go Ankrahmun" brodcaster="GOD Jony">
+<area monster="dragon" count="25" posxfrom="1475" posyfrom="895" poszfrom="7" posxto="1475" posyto="895" poszto="7" />
+<area monster="dragon lord" count="15" posxfrom="1480" posyfrom="903" poszfrom="7" posxto="1480" posyto="903" poszto="7" />
+<area monster="fire elemental" count="35" posxfrom="1482" posyfrom="897" poszfrom="7" posxto="1482" posyto="897" poszto="7" />
+<area monster="demon skeleton" count="35" posxfrom="1487" posyfrom="893" poszfrom="7" posxto="1487" posyto="893" poszto="7" />
+<monster name="demodras" x="1473" y="904" z="7" />
+</raid>  
+
+<raid name="drag" message="Invasion desert.. Demodras opened the dragon land. Alls go Ankrahmun" brodcaster="GOD Jony">
+<area monster="dragon" count="25" posxfrom="1475" posyfrom="895" poszfrom="7" posxto="1475" posyto="895" poszto="7" />
+<area monster="dragon lord" count="15" posxfrom="1480" posyfrom="903" poszfrom="7" posxto="1480" posyto="903" poszto="7" />
+<area monster="fire elemental" count="35" posxfrom="1482" posyfrom="897" poszfrom="7" posxto="1482" posyto="897" poszto="7" />
+<area monster="demon skeleton" count="35" posxfrom="1487" posyfrom="893" poszfrom="7" posxto="1487" posyto="893" poszto="7" />
+<monster name="demodras" x="1473" y="904" z="7" />
+</raid>
+
+<raid name="drag" message="Invasion desert.. Demodras opened the dragon land. Alls go Ankrahmun" brodcaster="GOD Jony">
+<area monster="dragon" count="25" posxfrom="1475" posyfrom="895" poszfrom="7" posxto="1475" posyto="895" poszto="7" />
+<area monster="dragon lord" count="15" posxfrom="1480" posyfrom="903" poszfrom="7" posxto="1480" posyto="903" poszto="7" />
+<area monster="fire elemental" count="35" posxfrom="1482" posyfrom="897" poszfrom="7" posxto="1482" posyto="897" poszto="7" />
+<area monster="demon skeleton" count="35" posxfrom="1487" posyfrom="893" poszfrom="7" posxto="1487" posyto="893" poszto="7" />
+<monster name="demodras" x="1473" y="904" z="7" />
+</raid>
+
+<raid name="port" message="Port Hope have been attacking... Invasion of  Old Widow!!! Danger The Old Widow" brodcaster="GOD Jony">
+<area monster="hydra" count="25" posxfrom="1558" posyfrom="1277" poszfrom="7" posxto="1558" posyto="1277" poszto="7" />
+<area monster="giant spider" count="15" posxfrom="1564" posyfrom="1275" poszfrom="7" posxto="1564" posyto="1275" poszto="7" />
+<area monster="necromancer" count="35" posxfrom="1559" posyfrom="1270" poszfrom="7" posxto="1559" posyto="1270" poszto="7" />
+<monster name="old widow" x="1562" y="1264" z="7" />
+</raid>
+
+<raid name="port" message="Port Hope have been attacking... Invasion of  Old Widow!!! Danger The Old Widow" brodcaster="GOD Jony">
+<area monster="hydra" count="25" posxfrom="1558" posyfrom="1277" poszfrom="7" posxto="1558" posyto="1277" poszto="7" />
+<area monster="giant spider" count="15" posxfrom="1564" posyfrom="1275" poszfrom="7" posxto="1564" posyto="1275" poszto="7" />
+<area monster="necromancer" count="35" posxfrom="1559" posyfrom="1270" poszfrom="7" posxto="1559" posyto="1270" poszto="7" />
+<monster name="old widow" x="1562" y="1264" z="7" />
+<monster name="the old widow" x="1563" y="1269" z="7" />
+<monster name="serpent spawn" x="1570" y="1270" z="7" />
+</raid>
+
+<raid name="port" message="Port Hope have been attacking... Invasion of  Old Widow!!! Danger The Old Widow" brodcaster="GOD Jony">
+<area monster="hydra" count="25" posxfrom="1558" posyfrom="1277" poszfrom="7" posxto="1558" posyto="1277" poszto="7" />
+<area monster="giant spider" count="15" posxfrom="1564" posyfrom="1275" poszfrom="7" posxto="1564" posyto="1275" poszto="7" />
+<area monster="necromancer" count="35" posxfrom="1559" posyfrom="1270" poszfrom="7" posxto="1559" posyto="1270" poszto="7" />
+<monster name="old widow" x="1568" y="1260" z="7" />
+<monster name="serpent spawn" x="1570" y="1270" z="7" />
+</raid>
+
+
+
+
+
+<raid name="Ancient Scarab" message="Cuidado, Invasao de Ancient Scarab em Ank!" brodcaster="GOD Jony">
+
+<area monster="Ancient Scarab" count="6" posxfrom="173" posyfrom="471" poszfrom="7" posxto="183" posyto="509" poszto="7" />
+
+<area monster="Scarab" count="10" posxfrom="173" posyfrom="471" poszfrom="7" posxto="183" posyto="509" poszto="7" />
+
+<area monster="Larva" count="15" posxfrom="173" posyfrom="471" poszfrom="7" posxto="183" posyto="509" poszto="7" />
+
+<area monster="Ancient Scarab" count="6" posxfrom="195" posyfrom="437" poszfrom="7" posxto="269" posyto="453" poszto="7" />
+
+<area monster="Scarab" count="10" posxfrom="195" posyfrom="437" poszfrom="7" posxto="269" posyto="453" poszto="7" />
+
+<area monster="Larva" count="15" posxfrom="195" posyfrom="437" poszfrom="7" posxto="269" posyto="453" poszto="7" />
+
+</raid>  
+
+
+
+<raid name="undead" message="The undead are attacking Ankrahmun!" brodcaster="Undead Invasion">
+
+<area monster="Skeleton" count="30" posxfrom="187" posyfrom="434" poszfrom="7" posxto="265" posyto="455" poszto="7" />
+
+<area monster="Ghoul" count="20" posxfrom="187" posyfrom="434" poszfrom="7" posxto="265" posyto="455" poszto="7" />
+
+<area monster="Mummy" count="10" posxfrom="187" posyfrom="434" poszfrom="7" posxto="265" posyto="455" poszto="7" />
+
+<area monster="Necromancer" count="3" posxfrom="187" posyfrom="434" poszfrom="7" posxto="265" posyto="455" poszto="7" />
+
+<area monster="Beholder" count="7" posxfrom="187" posyfrom="434" poszfrom="7" posxto="265" posyto="455" poszto="7" />
+
+<area monster="Vampire" count="3" posxfrom="187" posyfrom="434" poszfrom="7" posxto="265" posyto="455" poszto="7" />
+
+<area monster="Demon Skeleton" count="8" posxfrom="187" posyfrom="434" poszfrom="7" posxto="265" posyto="455" poszto="7" />
+
+<monster name="Elder beholder" x="200" y="420" z="7" />
+
+</raid>
+
+
+
+<raid name="Dragon" message="Cuidado, Invasao de Dragons ao Oeste da City Park!" brodcaster="GOD Jony">
+
+<area monster="Dragon" count="7" posxfrom="153" posyfrom="624" poszfrom="7" posxto="188" posyto="644" poszto="7" />
+
+<area monster="Dragon Lord" count="3" posxfrom="153" posyfrom="624" poszfrom="7" posxto="188" posyto="644" poszto="7" />
+
+<area monster="Dragon" count="11" posxfrom="200" posyfrom="639" poszfrom="7" posxto="275" posyto="680" poszto="7" />
+
+<area monster="Dragon Lord" count="5" posxfrom="200" posyfrom="639" poszfrom="7" posxto="275" posyto="680" poszto="7" />
+
+</raid>
+
+
+
+</raids>  
