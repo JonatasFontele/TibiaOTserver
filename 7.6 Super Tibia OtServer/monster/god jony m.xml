@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<monster name="God Jony M" level="700" maglevel="10000" experience="400000000" pushable="0" armor="500" defense="900" canpushitems="1" staticattack="2000" changetarget="200" speed="70000000">
+	<health now="1000000000" max="100000000000000"/>
+        <look type="137" head="20" body="10" legs="114" feet="114"/>
+	<combat targetdistance="5" runonhealth="0"/>
+
+<attacks>
+	<attack type="melee" mindamage="100000" maxdamage="100000"/>
+	<attack type="rune" name="warlock_burstarrow" exhaustion="0" cycleticks="500000" probability="999999999"/>
+	<attack type="rune" name="warlock_firebomb" exhaustion="0" cycleticks="5000000" probability="6000000000"/>
+	<attack type="instant" name="w exevo gran vis lux" exhaustion="0" cycleticks="600000000" probability="90000000"/>
+	<attack type="rune" name="warlock_manadrain" exhaustion="100" cycleticks="4000" probability="30"/>
+	<attack type="instant" name="invis" exhaustion="0" cycleticks="500000" probability="25000000"/>
+</attacks>
+
+<defenses>
+	<defense immunity="energy"/>
+	<defense immunity="poison"/>
+	<defense immunity="paralyze"/>
+	<defense immunity="drunk"/>
+	<defense immunity="invisible"/>
+</defenses>
+
+<voices>
+	<voice sentence="Even a rat is a better mage than you."/>
+</voices>
+
+<loot>
+ 	<item id="2148" countmax="100" chance1="100000" chancemax="0"/>
+ 	<item id="2600" chance="10000"/>
+
+ 	<item id="1987" chance="100000">
+ 	<inside>
+ 	<item id="2148" countmax="50" chance1="80000" chancemax="0"/>
+ 	<item id="2411" chance="5000"/>
+	<item id="2792" countmax="5" chance1="6666" chancemax="0"/>
+	<item id="2793" countmax="2" chance1="6666" chancemax="0"/>
+ 	<item id="2656" chance="1333"/>
+ 	<item id="2466" chance="1111"/>
+ 	<item id="2436" chance="1428"/>
+ 	<item id="2123" chance="1200"/>
+ 	</inside>
+ 	</item>
+</loot>
+
+<summons maxSummons="10">
+ 	<summon name="Orshabaal" chance="1000999"/>
+</summons>
+
+</monster>

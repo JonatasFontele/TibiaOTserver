@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<monster name="Golden Loot" level="105" maglevel="150" experience="30000" pushable="0" armor="49" defense="51" canpushitems="1" staticattack="40" changetarget="200" speed="8000">
+	<health now="15000" max="15000"/>
+	<look type="128" head="78" body="78" legs="78" feet="78" corpse="3128"/>
+	<combat targetdistance="1" runonhealth="0"/>
+      <blood color="199" effect="0" splash="255"/>
+
+<attacks>
+	<attack type="melee" mindamage="502" maxdamage="666" probability="100"/>
+	<attack type="instant" name="exura" cycleticks="5000" probability="50"/>
+	<attack type="rune" name="firefield" cycleticks="3000" probability="40"/>
+	<attack type="instant" name="d exevo gran vis lux" exhaustion="500" cycleticks="7000" probability="60"/>
+	<attack type="instant" name="demon_manadrain" exhaustion="100" cycleticks="4000" probability="30"/>
+	<attack type="rune" name="demon fireball" exhaustion="500" cycleticks="3500" probability="60"/>
+	<attack type="rune" name="p sd" exhaustion="500" cycleticks="3000" probability="70"/>
+	<attack type="instant" name="banshee_sonar" exhaustion="500" cycleticks="4300" probability="1000"/>
+        <attack type="rune" name="p sd" exhaustion="500" cycleticks="6000" probability="90"/>
+</attacks>
+
+<defenses>
+	<defense immunity="energy"/>
+	<defense immunity="fire"/>
+	<defense immunity="paralyze"/>
+	<defense immunity="invisible"/>
+	<defense immunity="drunk"/>
+</defenses>
+
+<voices>
+	<voice sentence="Your soul will be mine!"/>
+	<voice sentence="Your resistance is futile!"/>
+	<voice sentence="MWA HA HA HA HA!"/>
+	<voice sentence="I SMELLLL FEARRR!"/>
+</voices>
+
+<loot>
+ 	<item id="2148" countmax="100" chance1="100000" chancemax="0"/>
+ 	<item id="2148" countmax="25" chance1="100000" chancemax="0"/>
+ 	<item id="2393" chance="19999"/>
+ 	<item id="2514" chance="11111"/>
+ 	<item id="2432" chance="9999"/>
+ 	<item id="2472" chance="8888"/>
+
+ 	<item id="2004" chance="33333">
+ 	<inside>
+  	<item id="2678" countmax="3" chance1="10000" chancemax="0"/>
+ 	<item id="2148" countmax="100" chance1="100000" chancemax="0"/>
+ 	<item id="2151" countmax="4" chance1="4000" chancemax="0"/>
+ 	<item id="2462" chance="1055"/>
+	<item id="2149" countmax="3" chance1="1428" chancemax="0"/>
+ 	<item id="2171" chance="10000"/>
+ 	<item id="2387" chance="8888"/>
+ 	<item id="2470" chance="7777"/>
+ 	<item id="2520" chance="8888"/>
+ 	<item id="2418" chance="6666"/>
+ 	<item id="2377" chance="10000"/>
+ 	</inside>
+ 	</item>
+</loot>
+
+<summons maxSummons="2">
+ 	<summon name="" chance="1333"/>
+</summons>
+
+</monster>

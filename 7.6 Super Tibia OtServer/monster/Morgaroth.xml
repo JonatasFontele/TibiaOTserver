@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<monster name="Morgaroth" level="300" maglevel="200" experience="25000" pushable="0" armor="56" defense="60" canpushitems="1" staticattack="45" changetarget="200" speed="6000">
+	<health now="35000" max="35000"/>
+	<look type="107" head="20" body="30" legs="40" feet="50" corpse="2916"/>
+	<combat targetdistance="1" runonhealth="0"/>
+      <blood color="199" effect="0" splash="255"/>
+
+<attacks>
+	<attack type="melee" mindamage="1150" maxdamage="2000" probability="100"/>
+	<attack type="instant" name="exura" cycleticks="5000" probability="60"/>
+	<attack type="instant" name="o firefield" cycleticks="7500" probability="75"/>
+	<attack type="instant" name="o exevo gran vis lux" exhaustion="500" cycleticks="7000" probability="60"/>
+	<attack type="rune" name="orsha fireball" exhaustion="500" cycleticks="3000" probability="50"/>
+	<attack type="instant" name="o exori" exhaustion="500" cycleticks="8000" probability="55"/>
+	<attack type="instant" name="demon_manadrain" exhaustion="100" cycleticks="4000" probability="30"/>
+</attacks>
+
+<defenses>
+	<defense immunity="energy"/>
+	<defense immunity="fire"/>
+	<defense immunity="paralyze"/>
+	<defense immunity="invisible"/>
+	<defense immunity="drunk"/>
+</defenses>
+
+<voices>
+	<voice sentence="NOOB WELCOME TO HELL ,,I,,"/>
+	<voice sentence="MUAHAHAHAHA!"/>
+</voices>
+
+<loot>
+ 	<item id="2152" countmax="7" chance1="50000" chancemax="0"/>
+ 	<item id="2393" chance="1000"/>
+ 	<item id="2470" chance="2000"/>
+ 	<item id="2522" chance="8888"/>
+ 	<item id="2158" chance="10000"/>
+ 	<item id="2319" chance="9000"/>
+ 	<item id="2462" chance="50000"/>
+ 	<item id="2421" chance="3333"/>
+ 	<item id="2472" chance="9999"/>
+                <item id="2495" chance="3000"/>
+
+ 	<item id="2002" chance="100000">
+ 	<inside>
+ 	<item id="2160" countmax="100" chance1="100000" chancemax="0"/>
+ 	<item id="2148" countmax="100" chance1="50000" chancemax="0"/>
+ 	<item id="2148" countmax="100" chance1="50000" chancemax="0"/>
+ 	<item id="2144" countmax="10" chance1="50000" chancemax="0"/>
+ 	<item id="2178" chance="100000"/>
+ 	<item id="2402" chance="50000"/>
+ 	<item id="2390" chance="6666"/>
+ 	<item id="2646" chance="7777"/>
+ 	</inside>
+ 	</item>
+</loot>
+
+<summons maxSummons="1">
+ 	<summon name="Orshabaal" chance="5000"/>
+</summons>
+
+</monster>

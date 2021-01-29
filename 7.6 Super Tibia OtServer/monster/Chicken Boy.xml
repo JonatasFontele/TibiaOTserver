@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<monster name="Chicken Boy" level="20" maglevel="10" experience="0" pushable="0" speed="640" monster="1" armor="3" defense="5" canpushitems="0" staticattack="50" changetarget="0">
+<health now="9500" max="9500"/>
+<look type="111" corpse="4265"/>
+<combat targetdistance="1" runonhealth="0"/>
+
+<attacks>
+	<attack type="melee" maxdamage="0"/>
+</attacks>
+
+<defenses>
+	<!-- <defense immunity="poison"/> -->
+	<defense immunity="paralyze"/>
+	<defense immunity="drunk"/>
+</defenses>
+
+<loot>
+</loot>
+
+<voices>
+	<voice sentence="Cluck Cluck" cycleticks="10000" probability="40"/>
+	<voice sentence="Gokgoooook" cycleticks="10000" probability="20"/>
+</voices>
+
+</monster>

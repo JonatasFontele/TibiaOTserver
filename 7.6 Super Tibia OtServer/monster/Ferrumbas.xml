@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<monster name="Ferrumbas" level="200" maglevel="205" experience="8500" pushable="0" armor="29" defense="31" canpushitems="1" staticattack="50" changetarget="200" speed="6000">
+	<health now="15000" max="15000"/>
+	<look type="130" head="19" body="71" legs="128" feet="128" corpse="3128"/>
+	<combat targetdistance="5" runonhealth="0"/>
+
+<attacks>
+	<attack type="melee" mindamage="300" maxdamage="450"/>
+	<attack type="rune" name="warlock_burstarrow" exhaustion="30" cycleticks="9000" probability="150"/>
+	<attack type="rune" name="warlock_firebomb" exhaustion="100" cycleticks="8000" probability="100"/>
+	<attack type="instant" name="w exevo gran vis lux" exhaustion="500" cycleticks="9000" probability="120"/>
+	<attack type="rune" name="warlock_manadrain" exhaustion="50" cycleticks="9000" probability="164"/>
+	<attack type="instant" name="invis" exhaustion="10" cycleticks="5000" probability="140"/>
+</attacks>
+
+<defenses>
+	<defense immunity="energy"/>
+	<defense immunity="fire"/>
+	<defense immunity="paralyze"/>
+	<defense immunity="drunk"/>
+	<defense immunity="invisible"/>
+</defenses>
+
+<voices>
+	<voice sentence="Even a rat is a better mage than you."/>
+</voices>
+
+<loot>
+ 	<item id="2148" countmax="100" chance1="100000" chancemax="0"/>
+ 	<item id="2600" chance="10000"/>
+
+ 	<item id="1987" chance="100000">
+ 	<inside>
+ 	<item id="2148" countmax="50" chance1="80000" chancemax="0"/>
+ 	<item id="2411" chance="5000"/>
+	<item id="2792" countmax="5" chance1="6666" chancemax="0"/>
+	<item id="2793" countmax="2" chance1="6666" chancemax="0"/>
+ 	<item id="2656" chance="10000"/>
+ 	<item id="2466" chance="15000"/>
+ 	<item id="2436" chance="35000"/>
+ 	<item id="2123" chance="39000"/>
+	<item id="2197" chance="11110"/>
+ 	</inside>
+ 	</item>
+</loot>
+
+<summons maxSummons="4">
+ 	<summon name="warlock" chance="5000"/>
+ 	<summon name="demon" chance="5000"/>
+</summons>
+
+</monster>
