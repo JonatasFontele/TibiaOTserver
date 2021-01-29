@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<player name="Dudi" account="8034183" sex="1" lookdir="0" exp="4200" voc="4" level="8" access="0" cap="405" maglevel="0">
+<spawn x="160" y="54" z="7"/>
+<temple x="160" y="54" z="7"/>
+<health now="185" max="185" food="0"/>
+<mana now="35" max="35" spent="0"/>
+<look type="134" head="19" body="21" legs="76" feet="114"/>
+<skills>
+<skill skillid="0" level="10" tries="10"/>
+<skill skillid="1" level="10" tries="0"/>
+<skill skillid="2" level="10" tries="0"/>
+<skill skillid="3" level="10" tries="0"/>
+<skill skillid="4" level="10" tries="0"/>
+<skill skillid="5" level="10" tries="0"/>
+<skill skillid="6" level="10" tries="10"/>
+</skills>
+<inventory>
+<slot slotid="1"><item id="2457"/></slot>
+<slot slotid="3"><item id="3940"><inside><item id="2413"/><item id="2120"/><item id="2554"/><item id="2152" count="2"/></inside></item></slot>
+<slot slotid="5"><item id="2525"/></slot>
+<slot slotid="6"><item id="2383"/></slot>
+<slot slotid="10"><item id="2580"/></slot>
+<slot slotid="4"><item id="2463"/></slot>
+<slot slotid="7"><item id="2647"/></slot>
+<slot slotid="8"><item id="2643"/></slot>
+</inventory>
+<vips>
+<vip name="GM Ruly"/>
+</vips>
+<depots><depot depotid="1"><item id="2591"><inside><item id="2594"/></inside></item></depot><depot depotid="2"><item id="2591"><inside><item id="2594"/></inside></item></depot><depot depotid="3"><item id="2591"><inside><item id="2594"/></inside></item></depot></depots><storage/>
+</player>
