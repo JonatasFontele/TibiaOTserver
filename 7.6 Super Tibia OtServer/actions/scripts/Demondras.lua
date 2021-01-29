@@ -1,0 +1,17 @@
+--Demondras 
+ 
+function onUse(cid, item, frompos, item2, topos)
+ 
+doorpos = {x=frompos.x, y=frompos.y, z=frompos.z}
+playerpos = getPlayerPosition(cid)
+playerlevel = getPlayerLevel(cid)
+ 
+if item.itemid == 1227 and doorpos.x == 1519 and doorpos.y == 925 and doorpos.z == 9 then
+if playerlevel > 130 then
+doTeleportThing(cid,doorpos)
+elseif playerlevel < 130 then
+doPlayerSendTextMessage(cid,22,"Você precisa ser level 130 para passar.")
+end
+end
+return 1
+end
