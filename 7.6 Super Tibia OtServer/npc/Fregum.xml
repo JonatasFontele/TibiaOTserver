@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<npc name="Fregum" script="data/npc/scripts/runes1.lua" access="3">
+ 	<look type="131" head="15" body="79" legs="84" feet="79"/>
+</npc>

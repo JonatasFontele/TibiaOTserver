@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<npc name="Death" script="data/npc/scripts/Dead.lua" access="3">
+	<look type="9" head="20" body="30" legs="40" feet="50"/>
+</npc>

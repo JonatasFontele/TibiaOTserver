@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<npclist>
+<npc name="Seller" x="1606" y="517" z="7" dir="0"/>
+<npc name="Mad" x="1646" y="499" z="6" dir="0"/>
+<npc name="Dark Rodo" x="1645" y="517" z="6" dir="0"/>
+<npc name="Guild Master" x="1623" y="499" z="7" dir="0"/>
+<npc name="Orlan" x="664" y="575" z="7" dir="0"/>
+<npc name="Seller" x="1019" y="520" z="7" dir="0"/>
+<npc name="Lector" x="1015" y="481" z="7" dir="0"/>
+<npc name="Dark Rodo" x="1014" y="478" z="6" dir="0"/>
+<npc name="Guild Master" x="996" y="486" z="6" dir="0"/>
+<npc name="Mad" x="1000" y="475" z="8" dir="0"/>
+<npc name="Orlan" x="1005" y="506" z="6" dir="0"/>
+<npc name="Seller" x="675" y="603" z="7" dir="0"/>
+<npc name="Mad" x="677" y="616" z="7" dir="0"/>
+<npc name="Dark Rodo" x="686" y="647" z="7" dir="0"/>
+<npc name="Lector" x="694" y="613" z="7" dir="0"/>
+<npc name="Guild Master" x="713" y="600" z="6" dir="0"/>
+<npc name="Orlan" x="1619" y="517" z="7" dir="0"/>
+<npc name="Perac" x="1599" y="506" z="7" dir="0"/>
+<npc name="Perac" x="1019" y="520" z="7" dir="0"/>
+<npc name="Perac" x="638" y="602" z="7" dir="0"/>
+<npc name="Dufi" x="1605" y="506" z="7" dir="0"/>
+<npc name="Edala" x="643" y="602" z="6" dir="0"/>
+<npc name="Eremo" x="1055" y="490" z="1" dir="0"/>
+<npc name="Humphrey" x="1623" y="531" z="5" dir="0"/>
+<npc name="Norf" x="996" y="720" z="11" dir="0"/>
+<npc name="Pydar" x="826" y="422" z="7" dir="0"/>
+<npc name="Seller" x="1549" y="1341" z="7" dir="0"/>
+<npc name="Mad" x="1553" y="1334" z="7" dir="0"/>
+<npc name="Dark Rodo" x="1564" y="1333" z="7" dir="0"/>
+<npc name="Lector" x="1560" y="1342" z="7" dir="0"/>
+<npc name="Seller" x="1567" y="938" z="7" dir="0"/>
+<npc name="Mad" x="1575" y="938" z="7" dir="0"/>
+<npc name="Dark Rodo" x="1567" y="945" z="7" dir="0"/>
+<npc name="Lector" x="1575" y="945" z="7" dir="0"/>
+<npc name="Captain Frenburg" x="731" y="639" z="6" dir="0"/>
+<npc name="Captain Stein" x="1080" y="488" z="6" dir="0"/>
+<npc name="Captain Gofer" x="1608" y="469" z="6" dir="0"/>
+<npc name="Captain Lober" x="1532" y="1011" z="6" dir="0"/>
+<npc name="Captain Dody" x="1543" y="1389" z="6" dir="0"/>
+<npc name="Obi" x="671" y="646" z="7" dir="0"/>
+<npc name="Obi" x="1013" y="426" z="7" dir="0"/>
+<npc name="Obi" x="1663" y="535" z="7" dir="0"/>
+</npclist>

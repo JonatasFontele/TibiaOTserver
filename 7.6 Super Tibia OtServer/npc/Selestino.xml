@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<npc name="Selestino" script="data/npc/scripts/seles.lua" access="3">
+ 	<look type="141" head="15" body="23" legs="18" feet="53"/>
+</npc>

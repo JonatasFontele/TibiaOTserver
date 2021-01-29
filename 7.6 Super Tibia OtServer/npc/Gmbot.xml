@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<npc name="GM Bot" script="data/npc/scripts/npc_bot.lua" access="3">
+ 	<look type="75" head="114" body="119" legs="114" feet="114"/>
+</npc>
